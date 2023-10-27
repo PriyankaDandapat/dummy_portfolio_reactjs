@@ -1,0 +1,11 @@
+
+body{
+  background-color: rgb(245, 237, 220);
+}
+.App_subpart1{
+  display: flex;
+  background-color: rgba(235, 125, 0, 0.128);
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
